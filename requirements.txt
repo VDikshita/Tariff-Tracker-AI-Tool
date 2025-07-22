@@ -1,0 +1,6 @@
+# Web Scraping
+requests==2.31.0
+beautifulsoup4==4.12.3
+newspaper3k==0.2.8
+lxml==5.2.1
+
